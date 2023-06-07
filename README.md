@@ -9,3 +9,5 @@ flask run
 ```
 
 Os 3 modelos podem ser testados no arquivo Jupyter `Proof-of-Concept.ipynb`
+
+O dataset utilizado foi retirado de: https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information
